@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/diagnal-test-demo/static/css/main.c54d6d11.chunk.css",
+    "main.js": "/diagnal-test-demo/static/js/main.5b994186.chunk.js",
+    "main.js.map": "/diagnal-test-demo/static/js/main.5b994186.chunk.js.map",
+    "runtime-main.js": "/diagnal-test-demo/static/js/runtime-main.d320559a.js",
+    "runtime-main.js.map": "/diagnal-test-demo/static/js/runtime-main.d320559a.js.map",
+    "static/css/2.54370922.chunk.css": "/diagnal-test-demo/static/css/2.54370922.chunk.css",
+    "static/js/2.c5fbbf7d.chunk.js": "/diagnal-test-demo/static/js/2.c5fbbf7d.chunk.js",
+    "static/js/2.c5fbbf7d.chunk.js.map": "/diagnal-test-demo/static/js/2.c5fbbf7d.chunk.js.map",
+    "static/js/3.c1e5234b.chunk.js": "/diagnal-test-demo/static/js/3.c1e5234b.chunk.js",
+    "static/js/3.c1e5234b.chunk.js.map": "/diagnal-test-demo/static/js/3.c1e5234b.chunk.js.map",
+    "static/js/4.c9fe343e.chunk.js": "/diagnal-test-demo/static/js/4.c9fe343e.chunk.js",
+    "static/js/4.c9fe343e.chunk.js.map": "/diagnal-test-demo/static/js/4.c9fe343e.chunk.js.map",
+    "static/js/5.214cf8f5.chunk.js": "/diagnal-test-demo/static/js/5.214cf8f5.chunk.js",
+    "static/js/5.214cf8f5.chunk.js.map": "/diagnal-test-demo/static/js/5.214cf8f5.chunk.js.map",
+    "static/js/6.962249e8.chunk.js": "/diagnal-test-demo/static/js/6.962249e8.chunk.js",
+    "static/js/6.962249e8.chunk.js.map": "/diagnal-test-demo/static/js/6.962249e8.chunk.js.map",
+    "index.html": "/diagnal-test-demo/index.html",
+    "static/css/2.54370922.chunk.css.map": "/diagnal-test-demo/static/css/2.54370922.chunk.css.map",
+    "static/css/main.c54d6d11.chunk.css.map": "/diagnal-test-demo/static/css/main.c54d6d11.chunk.css.map",
+    "static/js/2.c5fbbf7d.chunk.js.LICENSE.txt": "/diagnal-test-demo/static/js/2.c5fbbf7d.chunk.js.LICENSE.txt",
+    "static/media/poster1.jpg": "/diagnal-test-demo/static/media/poster1.d966e333.jpg",
+    "static/media/poster2.jpg": "/diagnal-test-demo/static/media/poster2.bf23bfae.jpg",
+    "static/media/poster3.jpg": "/diagnal-test-demo/static/media/poster3.7ee7b802.jpg",
+    "static/media/poster4.jpg": "/diagnal-test-demo/static/media/poster4.a2f1de9b.jpg",
+    "static/media/poster5.jpg": "/diagnal-test-demo/static/media/poster5.d0a9cf21.jpg",
+    "static/media/poster6.jpg": "/diagnal-test-demo/static/media/poster6.57e30e48.jpg",
+    "static/media/poster7.jpg": "/diagnal-test-demo/static/media/poster7.8f23c2d5.jpg",
+    "static/media/poster8.jpg": "/diagnal-test-demo/static/media/poster8.61013e43.jpg",
+    "static/media/poster9.jpg": "/diagnal-test-demo/static/media/poster9.080f3385.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d320559a.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.c5fbbf7d.chunk.js",
+    "static/css/main.c54d6d11.chunk.css",
+    "static/js/main.5b994186.chunk.js"
+  ]
+}
